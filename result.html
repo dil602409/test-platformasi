@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Natija</title>
+<style>
+  body{margin:0;font-family:Poppins, Arial, sans-serif;background:linear-gradient(135deg,#071937,#102d66);color:#eaf2ff;display:flex;align-items:center;justify-content:center;min-height:100vh}
+  .box{background:#152f6d;padding:30px;border-radius:12px;max-width:560px;width:92%;text-align:center;box-shadow:0 10px 40px rgba(0,0,0,0.6)}
+  h1{color:#a8c6ff;margin:0 0 8px 0}
+  .score{font-size:2rem;font-weight:700;margin:8px 0}
+  .grade{font-size:1.1rem;margin-bottom:8px}
+  .time{font-size:0.95rem;opacity:0.9;margin-bottom:12px}
+  .note{font-size:0.9rem;color:#cfe6ff;margin-top:6px}
+  button{display:inline-block;margin:8px 6px 0;padding:10px 14px;border-radius:8px;border:0;background:#2563eb;color:#fff;cursor:pointer}
+  button:hover{background:#1e4ed8}
+</style>
+</head>
+<body>
+  <div class="box">
+    <h1>Test natijasi</h1>
+    <div id="who" class="note"></div>
+    <div id="score" class="score"></div>
+    <div id="grade" class="grade"></div>
+    <div id="time" class="time"></div>
+    <div style="margin-top:12px">
+      <button onclick="window.open('index.html','_self')">Bosh sahifaga qaytish</button>
+      <button onclick="window.close()">Yopish</button>
+    </div>
+  </div>
+
+<script src="https://cdn.jsdelivr.net/npm/exceljs/dist/exceljs.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
+<script>
+(function(){
+  const key = 'test_v2_results';
+  const params = new URLSearchParams(window.location.search);
+  const idx = parseInt(params.get('idx')||'0');
+  const all = JSON.parse(localStorage.getItem(key) || '[]');
+  const rec = all[idx] || all[all.length-1] || { name: 'Noma\'lum', score:0, date:'', time:'' };
+  document.getElementById('who').textContent = rec.name + ', sizning natijangiz:';
+  document.getElementById('score').textContent = rec.score + '%';
+  const now = new Date();
+  const dateStr = rec.date || now.toLocaleDateString('uz-UZ');
+  const timeStr = rec.time || now.toLocaleTimeString('uz-UZ');
+  document.getElementById('time').textContent = 'Sana: ' + dateStr + ' | Vaqt: ' + timeStr;
+  let grade = '';
+  if(rec.score >= 90) grade = "A’lo";
+  else if(rec.score >= 70) grade = 'Yaxshi';
+  else if(rec.score >= 50) grade = 'Qoniqarli';
+  else grade = 'Qayta urinib ko\'ring';
+  document.getElementById('grade').textContent = grade;
+
+  // Build files and auto-download TXT and XLSX with date-time filename (YYYY-MM-DD_HH-MM)
+  const now2 = new Date();
+  const pad = n=>n.toString().padStart(2,'0');
+  const fnDate = now2.getFullYear()+'-'+pad(now2.getMonth()+1)+'-'+pad(now2.getDate())+'_'+pad(now2.getHours())+'-'+pad(now2.getMinutes());
+  const txtName = 'natijalar_' + fnDate + '.txt';
+  const xlsxName = 'natijalar_' + fnDate + '.xlsx';
+
+  // TXT content: append all records as rows with headers
+  const lines = ['Ism\tFoiz\tBaho\tSana\tVaqt'];
+  all.forEach(r=>{
+    const g = r.score>=90?"A’lo":(r.score>=70?"Yaxshi":(r.score>=50?"Qoniqarli":"Qayta urinib ko'ring"));
+    lines.push(`${r.name}\t${r.score}%\t${g}\t${r.date}\t${r.time}`);
+  });
+  const blobTxt = new Blob([lines.join('\n')], { type: 'text/plain;charset=utf-8' });
+  // trigger download
+  saveAs(blobTxt, txtName);
+
+  // XLSX using ExcelJS with borders and colored rows
+  (async function(){
+    const workbook = new ExcelJS.Workbook();
+    workbook.creator = 'Onlayn Test';
+    const ws = workbook.addWorksheet('Natijalar');
+    ws.columns = [
+      { header:'Ism', key:'name', width:30 },
+      { header:'Foiz', key:'score', width:10 },
+      { header:'Baho', key:'grade', width:18 },
+      { header:'Sana', key:'date', width:14 },
+      { header:'Vaqt', key:'time', width:12 }
+    ];
+    // header style & border
+    ws.getRow(1).font = { bold:true, color:{argb:'FFFFFFFF'} };
+    ws.getRow(1).fill = { type:'pattern', pattern:'solid', fgColor:{argb:'FF13327A'} };
+    ws.getRow(1).alignment = { vertical:'middle', horizontal:'center' };
+    ws.getRow(1).height = 20;
+
+    all.forEach(r=>{
+      const gradeText = r.score>=90?"A’lo":(r.score>=70?"Yaxshi":(r.score>=50?"Qoniqarli":"Qayta urinib ko'ring"));
+      const row = ws.addRow({ name:r.name, score:r.score, grade:gradeText, date:r.date, time:r.time });
+      // borders
+      row.eachCell({ includeEmpty:true }, function(cell){
+        cell.border = { top:{style:'thin'}, left:{style:'thin'}, bottom:{style:'thin'}, right:{style:'thin'} };
+      });
+      // fill color by score
+      let fill = 'FFFFFFFF';
+      if(r.score>=90) fill='FFCCFFCC'; 
+      else if(r.score>=70) fill='FFFFFF99'; 
+      else if(r.score>=50) fill='FFFFCC99'; 
+      else fill='FFFF9999';
+      if(r.score>=90) fill = 'FFCCF6D8'; // light green
+      else if(r.score>=70) fill = 'FFFFF1CC'; // light yellow
+      else if(r.score>=50) fill = 'FFFFE4B3'; // orange-ish
+      else fill = 'FFFFD6D6'; // light red
+      row.eachCell({ includeEmpty:true }, function(cell){
+        cell.fill = { type:'pattern', pattern:'solid', fgColor:{argb:fill} };
+      });
+    });
+
+    ws.autoFilter = 'A1:E1';
+    ws.views = [{ state:'frozen', ySplit:1 }];
+
+    const buf = await workbook.xlsx.writeBuffer();
+    const blob = new Blob([buf], { type:'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet' });
+    saveAs(blob, xlsxName);
+  })();
+
+})();
+</script>
+</body>
+</html>

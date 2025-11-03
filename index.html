@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Onlayn Test — Word mavzusi</title>
+<style>
+  *{box-sizing:border-box}
+  html,body{height:100%;margin:0;font-family:Poppins, Arial, sans-serif;background:#07112a;color:#a8c6ff;}
+  .wrap{min-height:100%;display:flex;align-items:center;justify-content:center;padding:20px;}
+  .panel{width:100%;max-width:1100px;background:#102449;border-radius:14px;padding:28px;box-shadow:0 12px 40px rgba(0,0,0,0.6);}
+  h1{margin:0 0 10px 0;color:#d0e4ff;text-align:center;font-size:1.9rem;}
+  #name{width:100%;padding:14px;border-radius:10px;border:1px solid rgba(255,255,255,0.06);background:#0f2250;color:#d0e4ff;font-size:1rem;margin-bottom:18px;}
+  .q{background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));padding:14px;border-radius:10px;margin-bottom:16px;border:1px solid rgba(255,255,255,0.03);}
+  .q strong{color:#eaf2ff;font-size:1.05rem}
+  label.option{display:block;padding:10px;margin:8px 0;border-radius:8px;background:#1b376c;cursor:pointer}
+  label.option:hover{background:#25459a}
+  input[type=radio]{margin-right:10px}
+  .controls{text-align:center;margin-top:14px}
+  button{background:linear-gradient(90deg,#2563eb,#1337cc);color:#fff;padding:12px 18px;border-radius:10px;border:0;cursor:pointer;font-size:1rem}
+  @media(max-width:700px){ .panel{padding:18px} h1{font-size:1.4rem} #name{font-size:0.95rem} }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="panel" role="main">
+      <h1>Onlayn Test — Microsoft Word (5 savol)</h1>
+      <input id="name" type="text" placeholder="Ism va familiya (masalan: Alisher N.) (UTF-8)">
+
+      <div class="q">
+        <strong>1. Word dasturida hujjatni saqlash uchun qaysi tugma ishlatiladi?</strong>
+        <label class="option"><input type="radio" name="q1" value="true">File → Save</label>
+        <label class="option"><input type="radio" name="q1" value="false">Edit → Copy</label>
+        <label class="option"><input type="radio" name="q1" value="false">View → Zoom</label>
+      </div>
+
+      <div class="q">
+        <strong>2. Matnni qalin (bold) qilish uchun qaysi tugma ishlatiladi?</strong>
+        <label class="option"><input type="radio" name="q2" value="true">Bold (B)</label>
+        <label class="option"><input type="radio" name="q2" value="false">Italic (I)</label>
+        <label class="option"><input type="radio" name="q2" value="false">Underline (U)</label>
+      </div>
+
+      <div class="q">
+        <strong>3. Sahifa chetlarini (margins) o'zgartirish qaysi bo'limda?</strong>
+        <label class="option"><input type="radio" name="q3" value="true">Layout / Page Setup</label>
+        <label class="option"><input type="radio" name="q3" value="false">References</label>
+        <label class="option"><input type="radio" name="q3" value="false">Review</label>
+      </div>
+
+      <div class="q">
+        <strong>4. Hujjatga rasm qo'shish uchun nima ishlatiladi?</strong>
+        <label class="option"><input type="radio" name="q4" value="true">Insert → Picture</label>
+        <label class="option"><input type="radio" name="q4" value="false">Home → Font</label>
+        <label class="option"><input type="radio" name="q4" value="false">View → Navigation</label>
+      </div>
+
+      <div class="q">
+        <strong>5. Matnni topish va almashtirish uchun qaysi buyruq mavjud?</strong>
+        <label class="option"><input type="radio" name="q5" value="true">Find and Replace</label>
+        <label class="option"><input type="radio" name="q5" value="false">Spelling</label>
+        <label class="option"><input type="radio" name="q5" value="false">Track Changes</label>
+      </div>
+
+      <div class="controls">
+        <button onclick="submitTest()">Natijani ko'rish</button>
+      </div>
+    </div>
+  </div>
+
+<script>
+function submitTest(){
+  const nameEl = document.getElementById('name');
+  const name = (nameEl.value || '').trim();
+  if(!name){ alert('Iltimos, ismingizni kiriting!'); nameEl.focus(); return; }
+  const total = 5;
+  let correct = 0;
+  for(let i=1;i<=total;i++){
+    const sel = document.querySelector('input[name="q'+i+'"]:checked');
+    if(sel && sel.value==='true') correct++;
+  }
+  const score = Math.round((correct/total)*100);
+  const now = new Date();
+  const date = now.toLocaleDateString('uz-UZ');
+  const time = now.toLocaleTimeString('uz-UZ');
+  const rec = { name, score, date, time };
+  const key = 'test_v2_results';
+  const arr = JSON.parse(localStorage.getItem(key) || '[]');
+  arr.push(rec);
+  localStorage.setItem(key, JSON.stringify(arr));
+  // open result in new tab and pass index of this record
+  const params = new URLSearchParams({ idx: arr.length-1 });
+  window.open('result.html?' + params.toString(), '_blank');
+}
+</script>
+</body>
+</html>
