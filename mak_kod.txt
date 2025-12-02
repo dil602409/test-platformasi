@@ -2,3 +2,4 @@
 550505|Oltiariq|15-maktab|****
 220202|Oltiariq|IDEAL|****
 440404|Farg'ona|Registon|****
+555555|Oltiariq|sinov|****
