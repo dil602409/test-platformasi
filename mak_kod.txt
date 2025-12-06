@@ -6,3 +6,5 @@
 121212|Oltiariq|3-maktab|****
 660606|Oltiariq|6-maktab|****
 252505|O`zbekiston|O`zbekiston IM|****
+770707|Oltiariq|Oltiariq IM|****
+010995|Oltiariq|Oltiariq IM|****
