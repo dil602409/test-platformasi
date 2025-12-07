@@ -4,4 +4,4 @@ ts0004|ona tili|7 sinf|1-chorak|
 ﻿ts0002|ona tili|7 sinf|1-chorak|
 0002|ona tili|7 sinf|1-chorak|
 ﻿ts0003|ona tili va adabiyoti|7 sinf|1-chorak|
-TIn1002|Informatika|10 sinf|2-chorak|
+in1002|Informatika|10 sinf|2-chorak|
