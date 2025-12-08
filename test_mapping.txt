@@ -3,6 +3,6 @@ ts0004|ona tili|7 sinf|1-chorak|
 ﻿ts0009|ona tili|7 sinf|1-chorak|
 ﻿ts0002|ona tili|7 sinf|1-chorak|
 ﻿ts0003|ona tili va adabiyoti|7 sinf|1-chorak|
-in1002|Informatika|10 sinf|2-chorak|test1|
-on7001|ona tili va adabiyoti|7 sinf|1-chorak|test2|
+in1002|Informatika|10 sinf|2-chorak_test1|
+on7001|ona tili va adabiyoti|7 sinf|1-chorak_test2|
 
