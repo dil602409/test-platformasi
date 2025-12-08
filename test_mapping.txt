@@ -5,4 +5,4 @@ ts0004|ona tili|7 sinf|1-chorak|
 ﻿ts0003|ona tili va adabiyoti|7 sinf|1-chorak test2|
 in1002|Informatika|10 sinf|2-chorak test1|
 on7001|ona tili va adabiyoti|7 sinf|1-chorak test2|
-
+on5001|ona tili va adabiyoti|5 sinf|1-chorak test2|
