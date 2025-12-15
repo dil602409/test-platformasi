@@ -6,5 +6,6 @@ ts0004|ona tili|7 sinf|1-chorak|
 in10201|Informatika|10 sinf|2-chorak test1|
 on70102|ona tili va adabiyoti|7 sinf|1-chorak test2|
 on50102|ona tili va adabiyoti|5 sinf|1-chorak test2|
-ol57000|informatika|5-7 sinf|STEAM olimpiadasi|
+ol67000|informatika|6-7 sinf|STEAM olimpiadasi|
 ol89000|informatika|8-9 sinf|STEAM olimpiadasi|
+ol10110|informatika|10-11 sinf|STEAM olimpiadasi|
