@@ -1,5 +1,5 @@
 550505|Oltiariq|15-maktab|****
-220202|Oltiariq|IDEAL|****
+220202|Oltiariq IM|STEAM olimpiadasi|****
 440404|Farg'ona|Registon|****
 555555|Oltiariq|sinov|****
 880808|Toshloq|Toshloq IM|****
@@ -10,3 +10,4 @@
 010995|Oltiariq|Oltiariq IM|****
 454545|Qo'qon shahri|Qo'qon IM2|****
 380808|Oltiariq|38-maktab|****
+
