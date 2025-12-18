@@ -9,5 +9,5 @@ on50102|ona tili va adabiyoti|5 sinf|1-chorak test2|
 ol67000|informatika|6-7 sinf|STEAM olimpiadasi|
 ol89000|informatika|8-9 sinf|STEAM olimpiadasi|
 ol10110|informatika|10-11 sinf|STEAM olimpiadasi|
-alt7000|biologiya-kimyo-fizika|7-sinf|Al Xorazmiy olimpiadasi|
+al700t|biologiya-kimyo-fizika|7-sinf|Al Xorazmiy olimpiadasi|
 alt8000|biologiya-kimyo-fizika|8-sinf|Al Xorazmiy olimpiadasi|
