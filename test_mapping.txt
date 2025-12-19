@@ -13,3 +13,5 @@ at70000|biologiya kimyo fizika|7 sinf|Al Xorazmiy olimpiadasi|
 at80000|biologiya kimyo fizika|8 sinf|Al Xorazmiy olimpiadasi|
 aa70000|matematika|7 sinf|Al Xorazmiy olimpiadasi|
 aa80000|matematika|8 sinf|Al Xorazmiy olimpiadasi|
+ai70000|informatika|7 sinf|Al Xorazmiy olimpiadasi|
+ai80000|informatika|8 sinf|Al Xorazmiy olimpiadasi|
