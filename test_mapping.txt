@@ -15,3 +15,4 @@ aa70000|matematika|7 sinf|Al Xorazmiy olimpiadasi|
 aa80000|matematika|8 sinf|Al Xorazmiy olimpiadasi|
 ai70000|informatika|7 sinf|Al Xorazmiy olimpiadasi|
 ai80000|informatika|8 sinf|Al Xorazmiy olimpiadasi|
+chsb2|informatika|5-9-sinflar|onlayn chsb|
