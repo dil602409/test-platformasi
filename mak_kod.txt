@@ -9,4 +9,4 @@
 650505|Oltiariq|3-IDUM|****
 777777|Oltiariq IM|Onlayn CHSB|****
 790000|Zarbdor tumani|3-maktab|****
-121212|Oltiariq|15-maktab onlayn CHSB|****
+121212|Oltiariq|15-maktab|****
