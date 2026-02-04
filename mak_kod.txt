@@ -7,6 +7,6 @@
 010995|Oltiariq|Oltiariq IM|****
 380808|Oltiariq|38-maktab|****
 650505|Oltiariq|3-IDUM|****
-777777|Oltiariq IM|Onlayn CHSB|test_natijasi|test_data
+777777|Oltiariq IM|Onlayn CHSB|****
 790000|Zarbdor tumani 3-maktab|Onlayn CHSB|****
 121212|Oltiariq 15 maktab|onlayn CHSB|****
