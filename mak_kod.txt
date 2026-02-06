@@ -1,6 +1,6 @@
 550505|Oltiariq|15-maktab|diagnostik_test_15m|natija
 220202|Oltiariq IM|STEM olimpiadasi|****
-444444|Olttiariq IM|Al Xorazmiy olimpiadasi|****
+444444|Olttiariq IM|Al Xorazmiy olimpiadasi|Oltiariq IM|test_natijasi|test_data
 555555|Oltiariq|sinov|****
 660606|Oltiariq|6-maktab|****
 770707|Oltiariq|Oltiariq IM|test_natijasi|test_data
