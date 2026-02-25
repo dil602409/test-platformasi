@@ -19,3 +19,4 @@ chsb2|informatika|5-8-sinflar|onlayn chsb|
 ing59|ingliz tili|5-9 sinflar|diagnostik test|
 huq89|huquq|8-9 sinflar|diagnostik test|
 kim79|kimyo|7-9 sinflar|diagnostik test|
+ona59|ona tili va adabiyoti|5-9 sinflar|diagnostik test|
