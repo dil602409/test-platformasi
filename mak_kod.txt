@@ -10,3 +10,4 @@
 777777|Oltiariq IM|Onlayn CHSB|****
 790000|Zarbdor tumani 3-maktab|Onlayn CHSB|****
 121212|Oltiariq 15 maktab|onlayn CHSB|****
+788890|Qo'shtepa IM|Onlayn CHSB|qo'shtepa_chsb|natija
