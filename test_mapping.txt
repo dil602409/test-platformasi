@@ -21,3 +21,4 @@ huq89|huquq|8-9 sinflar|diagnostik test|
 kim79|kimyo|7-9 sinflar|diagnostik test|
 ona59|ona tili va adabiyoti|5-9 sinflar|diagnostik test|
 chsb2-infor|informatika|5-8 sinflar|chsb2 testlari|
+fiz79|fizika|7-9 sinflar|diagnostik test|
