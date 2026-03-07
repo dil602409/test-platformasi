@@ -24,3 +24,4 @@ chsb2-infor|informatika|5-8 sinflar|chsb2 testlari|
 fiz79|fizika|7-9 sinflar|diagnostik test|
 geo9|geografiya|9 sinf|diagnostik test|
 mat59|matematika|5-9 sinflar|diagnostik test|
+dt83|3-chorak|8 sinf|diagnostik test|
