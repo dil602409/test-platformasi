@@ -11,5 +11,5 @@
 790000|Zarbdor tumani 3-maktab|Onlayn CHSB|****
 121212|Oltiariq 15 maktab|onlayn CHSB|****
 788890|Qo'shtepa IM|Onlayn CHSB|qo'shtepa_chsb|natija
-788700|Oltiariq 6-maktab|Diagnostik testlar|diagnostik_test_6m|natija
+788700|Oltiariq 3-maktab|Diagnostik testlar|diagnostik_test_6m|natija
 388700|Oltiariq 38-maktab|Diagnostik testlar|diagnostik_test_38m|natija
