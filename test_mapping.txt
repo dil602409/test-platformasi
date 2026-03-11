@@ -26,6 +26,6 @@ geo9|geografiya|9 sinf|diagnostik test|
 mat59|matematika|5-9 sinflar|diagnostik test|
 dt83|3-chorak|8 sinf|diagnostik test|
 dt73|3-chorak|7 sinf|diagnostik test|
-bio69|biologiya|6-9 sinflar|diagnostik test|
+bio59|biologiya|6-9 sinflar|diagnostik test|
 tar58|tarix|5-8 sinflar|diagnostik test|
 rus59|rus tili|5-9 sinflar|diagnostik test|
