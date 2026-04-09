@@ -1,0 +1,5 @@
+﻿5-sinf|https://3dt5.netlify.app/|Sinfi:5-sinf|Chorak:3-chorak|Test turi:diagnostik test|Testlar soni:25 ta|
+6-sinf|https://3dt6.netlify.app/|Sinfi:6-sinf|Chorak:3-chorak|Test turi:diagnostik test|Testlar soni:25 ta|
+7-sinf|https://3dt7.netlify.app/|Sinfi:7-sinf|Chorak:3-chorak|Test turi:diagnostik test|Testlar soni:25 ta|
+8-sinf|https://3dt8.netlify.app/|Sinfi:8-sinf|Chorak:3-chorak|Test turi:diagnostik test|Testlar soni:25 ta|
+9-sinf|https://3dt9.netlify.app/|Sinfi:9-sinf|Chorak:3-chorak|Test turi:diagnostik test|Testlar soni:25 ta|
