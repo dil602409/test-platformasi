@@ -16,3 +16,4 @@
 252525|sinov va zahira|Diagnostik testlar|diagnostik_test|natija
 777707|Oltiariq|Oltiariq|sinov|test_data
 700444|Oltiariq|4-IDUM|4idum|test_data
+260606|Oltiariq|26-maktab|ol_26maktab|test_data
