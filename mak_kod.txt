@@ -1,19 +1,13 @@
 550505|Oltiariq 15-maktab|Diagnostik testlar|diagnostik_test_15m|natija
-220202|Oltiariq IM|STEM olimpiadasi|****
-444444|Olttiariq IM|Al Xorazmiy olimpiadasi|al_xorazmiy_olimpiadasi|natija
-555555|Oltiariq|sinov|****
-660606|Oltiariq|6-maktab|****
 770707|Oltiariq|Oltiariq IM|test_natijasi|test_data
-010995|Oltiariq|Oltiariq IM|****
-380808|Oltiariq|38-maktab|****
-650505|Oltiariq|3-IDUM|****
-777777|Oltiariq IM|Onlayn CHSB|****
-790000|Zarbdor tumani 3-maktab|Onlayn CHSB|****
-121212|Oltiariq 15 maktab|onlayn CHSB|****
-788890|Qo'shtepa IM|Onlayn CHSB|qo'shtepa_chsb|natija
 788700|Oltiariq 3-maktab|Diagnostik testlar|diagnostik_test_3m|natija
 388700|Oltiariq 38-maktab|Diagnostik testlar|diagnostik_test_38m|natija
 252525|sinov va zahira|Diagnostik testlar|diagnostik_test|natija
 777707|Oltiariq|Oltiariq|sinov|test_data
 700444|Oltiariq|4-IDUM|4idum|test_data
 260606|Oltiariq|26-maktab|ol_26maktab|test_data
+607065|Oltiariq|6-maktab|ol_6maktab|test_data
+220956|Oltiariq|2-IDUM|ol_2idum|test_data
+147890|Oltiariq|14-maktab|ol_14maktab|test_data
+
+
