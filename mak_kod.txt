@@ -9,5 +9,6 @@
 607065|Oltiariq|6-maktab|ol_6maktab|test_data
 220956|Oltiariq|2-IDUM|ol_2idum|test_data
 147890|Oltiariq|14-maktab|ol_14maktab|test_data
+207790|Oltiariq|20-maktab|ol_20maktab|test_data
 
 
