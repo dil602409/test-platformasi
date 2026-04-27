@@ -12,5 +12,5 @@
 224570|Oltiariq|2-maktab|ol_2maktab|test_data
 374070|Oltiariq|37-maktab|ol_37maktab|test_data
 445570|Oltiariq|14-maktab|ol_14maktab|test_data
-
+215570|Furqat|21-maktab|furqat_21maktab|test_data
 
