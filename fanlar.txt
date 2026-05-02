@@ -2,3 +2,4 @@
 ﻿6|Ona tili|Matematika|Ingliz tili|Rus tili|Tabiiy fan|Tarix
 7|Ona tili|Matematika|Ingliz tili|Rus tili|Geografiya|Tarix|Biologiya|Kimyo|Fizika
 8|Ona tili|Matematika|Ingliz tili|Rus tili|Geografiya|Tarix|Biologiya|Kimyo|Fizika|Huquq
+9|Ona tili|Matematika|Ingliz tili|Rus tili|Geografiya|Tarix|Biologiya|Kimyo|Fizika|Huquq
