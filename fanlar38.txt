@@ -1,0 +1,5 @@
+﻿5|Ona tili|Matematika|Ingliz tili|Rus tili|Tabiiy fan|Tarix|Nemis til
+﻿6|Ona tili|Matematika|Ingliz tili|Rus tili|Tabiiy fan|Tarix|Nemis til
+7|Ona tili|Matematika|Ingliz tili|Rus tili|Geografiya|Tarix|Biologiya|Kimyo|Fizika|Nemis til
+8|Ona tili|Matematika|Ingliz tili|Rus tili|Geografiya|Tarix|Biologiya|Kimyo|Fizika|Huquq|Nemis til
+9|Ona tili|Matematika|Ingliz tili|Rus tili|Geografiya|Tarix|Biologiya|Kimyo|Fizika|Huquq|Nemis til
