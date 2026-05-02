@@ -1,2 +1,3 @@
 ﻿5|Ona tili|Matematika|Ingliz tili|Rus tili|Tabiiy fan|Tarix
 ﻿6|Ona tili|Matematika|Ingliz tili|Rus tili|Tabiiy fan|Tarix
+7|Ona tili|Matematika|Ingliz tili|Rus tili|Geografiya|Tarix|Biologiya|Kimyo|Fizika
