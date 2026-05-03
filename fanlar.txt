@@ -1,5 +1,5 @@
 ﻿5|Ona tili|Matematika|Ingliz tili|Rus tili|Tabiiy fan|Tarix|Nemis tili|English38
-﻿6|Ona tili|Matematika|Ingliz tili|Rus tili|Tabiiy fan|Tarix|Nemis tili
+﻿6|Ona tili|Matematika|Ingliz tili|Rus tili|Tabiiy fan|Tarix|Nemis tili|English38
 7|Ona tili|Matematika|Ingliz tili|Rus tili|Geografiya|Tarix|Biologiya|Kimyo|Fizika|Nemis tili
 8|Ona tili|Matematika|Ingliz tili|Rus tili|Geografiya|Tarix|Biologiya|Kimyo|Fizika|Huquq|Nemis tili
 9|Ona tili|Matematika|Ingliz tili|Rus tili|Geografiya|Tarix|Biologiya|Kimyo|Fizika|Huquq|Nemis tili
