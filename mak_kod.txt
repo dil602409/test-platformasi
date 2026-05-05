@@ -4,7 +4,6 @@
 388700|Oltiariq 38-maktab|Diagnostik testlar|diagnostik_test_38m|natija
 252525|sinov va zahira|Diagnostik testlar|diagnostik_test|natija
 777707|Oltiariq|Oltiariq|sinov|test_data
-700444|Oltiariq|4-IDUM|4idum|test_data
 260606|Oltiariq|26-maktab|ol_26maktab|test_data
 607065|Oltiariq|6-maktab|ol_6maktab|test_data
 220956|Oltiariq|2-IDUM|ol_2idum|test_data
@@ -13,4 +12,5 @@
 374070|Oltiariq|37-maktab|ol_37maktab|test_data
 445570|Oltiariq|14-maktab|ol_14maktab|test_data
 215570|Furqat|21-maktab|furqat_21maktab|test_data
-
+045240|Oltiariq|4-maktab|ol_4maktab|test_data
+034560|Oltiariq|3-IDUM|ol_3idum|test_data
