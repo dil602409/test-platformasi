@@ -1,0 +1,6 @@
+﻿5|Ona tili|Matematika|Ingliz tili|Rus tili|Tabiiy fan|Tarix
+﻿6|Ona tili|Matematika|Ingliz tili|Rus tili|Tabiiy fan|Tarix
+7|Ona tili|Matematika|Ingliz tili|Rus tili|Geografiya|Tarix|Biologiya|Kimyo
+8|Ona tili|Matematika|Ingliz tili|Rus tili|Geografiya|Tarix|Biologiya|Kimyo|Fizika
+9|Ona tili|Matematika|Ingliz tili|Rus tili|Geografiya|Tarix|Biologiya|Kimyo|Fizika
+10|Ona tili|Matematika|Ingliz tili|Rus tili|Geografiya|Tarix|Biologiya|Kimyo|Fizika
