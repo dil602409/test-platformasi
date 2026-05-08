@@ -1,2 +1,2 @@
-﻿4-sinf|Matematika1|Matematika2|Matematika3|Matematika4|Ingliz til1|Ingliz til2|Ingliz til3|Ingliz til4
+﻿4|Matematika1|Matematika2|Matematika3|Matematika4|Ingliz til1|Ingliz til2|Ingliz til3|Ingliz til4
 ﻿
