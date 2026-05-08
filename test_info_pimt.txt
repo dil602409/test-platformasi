@@ -1,2 +1,3 @@
-﻿4-sinf|aniq|https://3dt5.netlify.app/|Sinfi:4-sinf|Chorak:x-chorak|Test turi:Tayyorlov test|Testlar soni:4 ta fan 25 tadan|
-4-sinf|2-to'plam|https://4dt526.netlify.app/|Sinfi:5-sinf|Chorak:x-chorak|Test turi:diagnostik test|Testlar soni:7 ta fan 20 tadan|
+﻿4-sinf|1-to’plam|https://3dt5.netlify.app/|Sinfi:4-sinf|Test turi:Tayyorlov testi|Testlar soni:4 ta fan 25 tadan|100 ballik|
+4-sinf|2-to'plam|https://4dt526.netlify.app/|Sinfi:4-sinf|Test turi:diagnostik test|Testlar soni:7 ta fan 20 tadan|100 ballik|
+
