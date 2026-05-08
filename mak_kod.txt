@@ -15,3 +15,4 @@
 045240|Oltiariq|4-maktab|ol_4maktab|test_data
 034560|Oltiariq|3-IDUM|ol_3idum|test_data
 556412|Oltiariq|Oltiariq IM|ol_im|test_data
+554560|Oltiariq|Tayyorlov guruh|pimt_mar|test_data
