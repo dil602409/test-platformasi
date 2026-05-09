@@ -1,3 +1,2 @@
-﻿4-sinf|1-to’plam|https://3dt5.netlify.app/|Sinfi:4-sinf|Test turi:Tayyorlov testi|Testlar soni:4 ta fan 25 tadan savol|100 ballik|
-4-sinf|Tanqidiy firklash(mashq)|https://4dt526.netlify.app/|Sinfi:4-sinf|Test turi:Tayyorlov testi|Testlar soni:4 ta fan 25 tadan savol|100 ballik|
+﻿4-sinf|Tanqidiy firklash(mashq)|https://4dt526.netlify.app/|Sinfi:4-sinf|Test turi:Tayyorlov testi|Testlar soni:4 ta fan 25 tadan savol|100 ballik|
 5-sinf|Matematika(mashq)|https://4dt526.netlify.app/|Sinfi:5-sinf|Test turi:Tayyorlov testi|Testlar soni:4 ta fan 25 tadan savol|100 ballik|
