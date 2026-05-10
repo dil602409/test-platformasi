@@ -16,3 +16,9 @@
 034560|Oltiariq|3-IDUM|ol_3idum|test_data
 556412|Oltiariq|Oltiariq IM|ol_im|test_data
 554560|Oltiariq|Tayyorlov guruh|pimt_mar|test_data
+568512|Oltiariq|Tayyorlov guruh|pimt_1|test_data
+245690|Oltiariq|Tayyorlov guruh|pimt_2|test_data
+047585|Oltiariq|Tayyorlov guruh|pimt_3|test_data
+745622|Oltiariq|Tayyorlov guruh|pimt_4|test_data
+574563|Oltiariq|Tayyorlov guruh|pimt_5|test_data
+788845|Oltiariq|Tayyorlov guruh|pimt_6|test_data
