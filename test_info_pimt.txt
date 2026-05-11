@@ -1,2 +1,3 @@
 4-sinf|Matematika(1-sinov)|https://pimtm1.netlify.app/|Sinfi:5-sinf|Test turi:Tayyorlov testi|Testlar soni:1 ta fan 30 tadan savol|93 ballik|
 4-sinf|Ishga oid testlar|https://ish-oid.netlify.app/|Sinfi:4-sinf|Test turi:Tayyorlov testi|Testlar soni:1 ta fan 25 tadan savol 100 ballik|
+4-sinf|Tengliklar va tenglamalar|https://teng-tenglama.netlify.app/|Sinfi:4-sinf|Test turi:Tayyorlov testi|Testlar soni:1 ta fan 40 tadan savol 100 ballik|
