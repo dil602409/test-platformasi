@@ -6,5 +6,5 @@
 8-sinf|tabiiy|https://4dt826t.netlify.app/|Sinfi:8-sinf|Chorak:4-chorak|Test turi:diagnostik test|Testlar soni:8 ta fan 20 tadan|
 9-sinf|tabiiy|https://5dt9.netlify.app/|Sinfi:9-sinf|Chorak:3-chorak|Test turi:diagnostik test|Testlar soni:9 ta fan 25 tadan|
 9-sinf|aniq|https://5dt7.netlify.app/|Sinfi:7-sinf|Chorak:3-chorak|Test turi:diagnostik test|Testlar soni:8 ta fan 25 tadan|
-10-sinf|aniq|https://5dt7.netlify.app/|Sinfi:7-sinf|Chorak:3-chorak|Test turi:diagnostik test|Testlar soni:8 ta fan 25 tadan|
-10-sinf|tabiiy|https://5dt7.netlify.app/|Sinfi:7-sinf|Chorak:3-chorak|Test turi:diagnostik test|Testlar soni:8 ta fan 25 tadan|
+10-sinf|aniq|https://4dt1026aim.netlify.app/|Sinfi:10-sinf|Chorak:4-chorak|Test turi:diagnostik test|Testlar soni:6 ta fan 20 tadan|
+10-sinf|tabiiy|https://4dt1026tim.netlify.app/|Sinfi:10-sinf|Chorak:4-chorak|Test turi:diagnostik test|Testlar soni:6 ta fan 20 tadan|
