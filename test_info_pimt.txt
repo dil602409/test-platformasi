@@ -3,3 +3,4 @@
 4-sinf|Tengliklar va tenglamalar|https://teng-tenglama.netlify.app/|Sinfi:4-sinf|Test turi:Tayyorlov testi|Testlar soni:1 ta fan 40 tadan savol 100 ballik|
 4-sinf|O'nli kasrlarni bo'lish|https://on-kasr.netlify.app//|Sinfi:4-sinf|Test turi:Tayyorlov testi|Testlar soni:1 ta fan 50 tadan savol 100 ballik|
 4-sinf|Muammoli masalalar1|https://mua-masalalar.netlify.app/|Sinfi:4-sinf|Test turi:Tayyorlov testi|Testlar soni:1 ta fan 20 tadan savol 100 ballik|
+5-sinf|To'g'ri va teskari proporsionallik|https://tvatpro.netlify.app/|Sinfi:5-sinf|Test turi:Tayyorlov testi|Testlar soni:1 ta fan 25 tadan savol 100 ballik|
