@@ -24,3 +24,4 @@
 788845|Oltiariq|Tayyorlov guruh|pimt_6|test_data
 127890|Dang'ara|1-maktab|dangara_1maktab|test_data
 445244|Oltiariq|9-maktab|ol_9maktab|test_data
+907565|Oltiariq|6-maktab|ol_6maktab_2|test_data
