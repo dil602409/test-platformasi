@@ -27,4 +27,4 @@
 907565|Oltiariq|6-maktab|ol_6maktab_2|test_data
 566545|Oltiariq|TG imtihon|imtihon_pimt|test_data
 859566|Oltiariq|TG imtihon|imtihon_pimt2|test_data
-789655|Oltiariq|Tayyorlov Malika|malika1|test_data
+789655|Oltiariq|GRAND akademiyasi|malika1|test_data
