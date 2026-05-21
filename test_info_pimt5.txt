@@ -1,3 +1,3 @@
 ﻿4-sinf|1-Imtihon|https://4-sinf-exm.netlify.app/|Sinfi:4-sinf|Test turi:1-Imtihon|Testlar soni:4 ta fan |
 3-sinf|Matematika A daraja|https://3-matd0.netlify.app/|Sinfi:3-sinf|Test turi:Nazorat testi|Testlar soni:1 ta fan 30 ta savol |100 ballik|
-4-sinf|Matematika A daraja|https://53-matd0.netlify.app/|Sinfi:4-sinf|Test turi:Nazorat testi|Testlar soni:1 ta fan 30 ta savol |100 ballik|
+4-sinf|Matematika A daraja|https://4-matd0.netlify.app/|Sinfi:4-sinf|Test turi:Nazorat testi|Testlar soni:1 ta fan 30 ta savol |100 ballik|
