@@ -1,3 +1,3 @@
-﻿3|Matematika1|
-4|Matematika 1-daraja(A)|Matematika2 Saralash|
+﻿3|Matematika1 0-daraja(A)|
+4|Matematika1 1-daraja(A)|Matematika2 Saralash|
 
