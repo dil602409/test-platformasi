@@ -29,3 +29,4 @@
 859566|Oltiariq|TG imtihon|imtihon_pimt2|test_data
 789655|Oltiariq|GRAND akademiyasi|malika1|test_data
 355240|Oltiariq|35-maktab|ol_35maktab|test_data
+557890|Oltiariq|4-maktab Boshlang'ich|ol_4maktab _sinov|test_data
