@@ -31,4 +31,4 @@
 355240|Oltiariq|35-maktab|ol_35maktab|test_data
 557890|Oltiariq|4-maktab Boshlang'ich|ol_4maktab _sinov|test_data
 327790|Beshariq|33-maktab|beshariq_33maktab|test_data
-524556|Oltiariq|TURON ODOM-ILM Maktabi|ol_turon|test_data
+524556|Oltiariq|TURON ODOB-ILM Maktabi|ol_turon|test_data
