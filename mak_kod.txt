@@ -33,3 +33,4 @@
 327790|Beshariq|33-maktab|beshariq_33maktab|test_data
 524556|Oltiariq|TURON ODOB-ILM Maktabi|ol_turon|test_data
 544570|Uchko'prik|54-maktab|uch_54maktab|test_data
+095020|Bog'dod|9-maktab|bog_9maktab|test_data
