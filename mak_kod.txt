@@ -35,3 +35,4 @@
 544570|Uchko'prik|54-maktab|uch_54maktab|test_data
 095020|Bog'dod|9-maktab|bog_9maktab|test_data
 003065|Bog'dod|Farog'atxon|farog'atxon_sinov|test_data
+224270|Furqat|3-maktab|furqat_3maktab|test_data
