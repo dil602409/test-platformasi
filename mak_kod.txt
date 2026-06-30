@@ -36,3 +36,4 @@
 095020|Bog'dod|9-maktab|bog_9maktab|test_data
 003065|Bog'dod|Farog'atxon|farog'atxon_sinov|test_data
 224270|Furqat|3-maktab|furqat_3maktab|test_data
+304480|Rishton|30-maktab|rish_30maktab|test_data
