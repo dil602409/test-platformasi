@@ -38,3 +38,4 @@
 224270|Furqat|3-maktab|furqat_3maktab|test_data
 304480|Rishton|30-maktab|rish_30maktab|test_data
 435860|Toshloq|43-maktab|tosh_43maktab|test_data
+661202|O'zbekiston|66-maktab|ozb_66maktab|test_data
