@@ -41,3 +41,4 @@
 976770|Furqat|33-maktab|furqat_33maktab|test_data
 797677|Furqat|10-maktab|furqat_10maktab|test_data
 897574|Furqat|36-maktab|furqat_36maktab|test_data
+497674|Beshariq|52-maktab|beshariq_52maktab|test_data
