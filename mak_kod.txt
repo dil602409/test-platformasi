@@ -40,3 +40,4 @@
 435860|Toshloq|43-maktab|tosh_43maktab|test_data
 661202|O'zbekiston|66-maktab|ozb_66maktab|test_data
 301202|Uchko'prik|30-maktab|uch_30maktab|test_data
+274770|Furqat|24-maktab|furqat_24maktab|test_data
