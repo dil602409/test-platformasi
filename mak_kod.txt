@@ -39,3 +39,4 @@
 301202|Uchko'prik|30-maktab|uch_30maktab|test_data
 274770|Furqat|24-maktab|furqat_24maktab|test_data
 976770|Furqat|33-maktab|furqat_33maktab|test_data
+797677|Furqat|10-maktab|furqat_10maktab|test_data
