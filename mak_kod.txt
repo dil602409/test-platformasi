@@ -30,11 +30,8 @@
 789655|Oltiariq|GRAND akademiyasi|malika1|test_data
 355240|Oltiariq|35-maktab|ol_35maktab|test_data
 557890|Oltiariq|4-maktab Boshlang'ich|ol_4maktab _sinov|test_data
-327790|Beshariq|33-maktab|beshariq_33maktab|test_data
-524556|Oltiariq|TURON ODOB-ILM Maktabi|ol_turon|test_data
 544570|Uchko'prik|54-maktab|uch_54maktab|test_data
 095020|Bog'dod|9-maktab|bog_9maktab|test_data
-003065|Bog'dod|Farog'atxon|farog'atxon_sinov|test_data
 224270|Furqat|3-maktab|furqat_3maktab|test_data
 304480|Rishton|30-maktab|rish_30maktab|test_data
 435860|Toshloq|43-maktab|tosh_43maktab|test_data
