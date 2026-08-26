@@ -31,6 +31,7 @@
 355240|Oltiariq|35-maktab|ol_35maktab|test_data
 557890|Oltiariq|4-maktab Boshlang'ich|ol_4maktab _sinov|test_data
 095020|Bog'dod|9-maktab|bog_9maktab|test_data
+450050|Bog'dod|45-maktab|bog_45maktab|test_data
 224270|Furqat|3-maktab|furqat_3maktab|test_data
 435860|Toshloq|43-maktab|tosh_43maktab|test_data
 274770|Furqat|24-maktab|furqat_24maktab|test_data
