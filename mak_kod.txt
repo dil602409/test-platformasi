@@ -55,3 +55,7 @@
 038222|O'zbekiston|3-maktab|ozb_3maktab|test_data
 288212|O'zbekiston|28-maktab|ozb_28maktab|test_data
 044462|O'zbekiston|4-maktab|ozb_4maktab|test_data
+188472|O'zbekiston|18-maktab|ozb_18maktab|test_data
+414162|O'zbekiston|41-maktab|ozb_41maktab|test_data
+459412|O'zbekiston|45-maktab|ozb_45maktab|test_data
+216622|O'zbekiston|21-maktab|ozb_21maktab|test_data
