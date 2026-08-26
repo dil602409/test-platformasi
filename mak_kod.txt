@@ -47,3 +47,4 @@
 354580|Rishton|11-maktab|rish_11maktab|test_data
 424780|Rishton|42-maktab|rish_42maktab|test_data
 234240|Rishton|23-maktab|rish_23maktab|test_data
+215250|Rishton|21-maktab|rish_21maktab|test_data
