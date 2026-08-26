@@ -51,3 +51,4 @@
 304480|Rishton|30-maktab|rish_30maktab|test_data
 661202|O'zbekiston|66-maktab|ozb_66maktab|test_data
 442202|O'zbekiston|19-maktab|ozb_19maktab|test_data
+066212|O'zbekiston|6-maktab|ozb_6maktab|test_data
