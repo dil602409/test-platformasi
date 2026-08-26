@@ -59,3 +59,4 @@
 414162|O'zbekiston|41-maktab|ozb_41maktab|test_data
 459412|O'zbekiston|45-maktab|ozb_45maktab|test_data
 216622|O'zbekiston|21-maktab|ozb_21maktab|test_data
+155662|O'zbekiston|15-maktab|ozb_15maktab|test_data
