@@ -43,3 +43,4 @@
 897574|Furqat|36-maktab|furqat_36maktab|test_data
 497674|Beshariq|52-maktab|beshariq_52maktab|test_data
 442202|O'zbekiston|19-maktab|ozb_19maktab|test_data
+603002|Uchko'prik|40-maktab|uch_40maktab|test_data
