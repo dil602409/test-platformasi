@@ -34,14 +34,12 @@
 095020|Bog'dod|9-maktab|bog_9maktab|test_data
 224270|Furqat|3-maktab|furqat_3maktab|test_data
 435860|Toshloq|43-maktab|tosh_43maktab|test_data
-661202|O'zbekiston|66-maktab|ozb_66maktab|test_data
 301202|Uchko'prik|30-maktab|uch_30maktab|test_data
 274770|Furqat|24-maktab|furqat_24maktab|test_data
 976770|Furqat|33-maktab|furqat_33maktab|test_data
 797677|Furqat|10-maktab|furqat_10maktab|test_data
 897574|Furqat|36-maktab|furqat_36maktab|test_data
 497674|Beshariq|52-maktab|beshariq_52maktab|test_data
-442202|O'zbekiston|19-maktab|ozb_19maktab|test_data
 603002|Uchko'prik|40-maktab|uch_40maktab|test_data
 354580|Rishton|11-maktab|rish_11maktab|test_data
 424780|Rishton|42-maktab|rish_42maktab|test_data
@@ -51,3 +49,5 @@
 524252|Rishton|52-maktab|rish_52maktab|test_data
 109554|Rishton|10-maktab|rish_10maktab|test_data
 304480|Rishton|30-maktab|rish_30maktab|test_data
+661202|O'zbekiston|66-maktab|ozb_66maktab|test_data
+442202|O'zbekiston|19-maktab|ozb_19maktab|test_data
