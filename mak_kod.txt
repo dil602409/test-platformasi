@@ -60,3 +60,7 @@
 544570|Uchko'prik|54-maktab|uch_54maktab|test_data
 301202|Uchko'prik|30-maktab|uch_30maktab|test_data
 603002|Uchko'prik|40-maktab|uch_40maktab|test_data
+088002|Uchko'prik|8-maktab|uch_8maktab|test_data
+105042|Uchko'prik|10-maktab|uch_10maktab|test_data
+155011|Uchko'prik|15-maktab|uch_15maktab|test_data
+190072|Uchko'prik|19-maktab|uch_19maktab|test_data
