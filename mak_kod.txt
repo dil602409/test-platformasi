@@ -50,3 +50,4 @@
 215250|Rishton|21-maktab|rish_21maktab|test_data
 474250|Rishton|47-maktab|rish_47maktab|test_data
 524252|Rishton|52-maktab|rish_52maktab|test_data
+109554|Rishton|10-maktab|rish_10maktab|test_data
