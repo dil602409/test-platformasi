@@ -30,17 +30,14 @@
 789655|Oltiariq|GRAND akademiyasi|malika1|test_data
 355240|Oltiariq|35-maktab|ol_35maktab|test_data
 557890|Oltiariq|4-maktab Boshlang'ich|ol_4maktab _sinov|test_data
-544570|Uchko'prik|54-maktab|uch_54maktab|test_data
 095020|Bog'dod|9-maktab|bog_9maktab|test_data
 224270|Furqat|3-maktab|furqat_3maktab|test_data
 435860|Toshloq|43-maktab|tosh_43maktab|test_data
-301202|Uchko'prik|30-maktab|uch_30maktab|test_data
 274770|Furqat|24-maktab|furqat_24maktab|test_data
 976770|Furqat|33-maktab|furqat_33maktab|test_data
 797677|Furqat|10-maktab|furqat_10maktab|test_data
 897574|Furqat|36-maktab|furqat_36maktab|test_data
 497674|Beshariq|52-maktab|beshariq_52maktab|test_data
-603002|Uchko'prik|40-maktab|uch_40maktab|test_data
 354580|Rishton|11-maktab|rish_11maktab|test_data
 424780|Rishton|42-maktab|rish_42maktab|test_data
 234240|Rishton|23-maktab|rish_23maktab|test_data
@@ -60,3 +57,6 @@
 459412|O'zbekiston|45-maktab|ozb_45maktab|test_data
 216622|O'zbekiston|21-maktab|ozb_21maktab|test_data
 155662|O'zbekiston|15-maktab|ozb_15maktab|test_data
+544570|Uchko'prik|54-maktab|uch_54maktab|test_data
+301202|Uchko'prik|30-maktab|uch_30maktab|test_data
+603002|Uchko'prik|40-maktab|uch_40maktab|test_data
