@@ -1,3 +1,5 @@
+127890|Dang'ara|1-maktab|dangara_1maktab|test_data
+497674|Beshariq|52-maktab|beshariq_52maktab|test_data
 550505|Oltiariq 15-maktab|Diagnostik testlar|diagnostik_test_15m|natija
 770707|Oltiariq|Oltiariq IM|test_natijasi|test_data
 788700|Oltiariq 3-maktab|Diagnostik testlar|diagnostik_test_3m|natija
@@ -11,7 +13,6 @@
 224570|Oltiariq|2-maktab|ol_2maktab|test_data
 370704|Oltiariq|37-maktab|ol_37maktab|test_data
 445570|Oltiariq|14-maktab|ol_14maktab|test_data
-215570|Furqat|21-maktab|furqat_21maktab|test_data
 045240|Oltiariq|4-maktab|ol_4maktab|test_data
 034560|Oltiariq|3-IDUM|ol_3idum|test_data
 556412|Oltiariq|Oltiariq IM|ol_im|test_data
@@ -22,7 +23,6 @@
 745622|Oltiariq|Tayyorlov guruh|pimt_4|test_data
 574563|Oltiariq|Tayyorlov guruh|pimt_5|test_data
 788845|Oltiariq|Tayyorlov guruh|pimt_6|test_data
-127890|Dang'ara|1-maktab|dangara_1maktab|test_data
 445244|Oltiariq|9-maktab|ol_9maktab|test_data
 907565|Oltiariq|6-maktab|ol_6maktab_2|test_data
 566545|Oltiariq|TG imtihon|imtihon_pimt|test_data
@@ -30,14 +30,13 @@
 789655|Oltiariq|GRAND akademiyasi|malika1|test_data
 355240|Oltiariq|35-maktab|ol_35maktab|test_data
 557890|Oltiariq|4-maktab Boshlang'ich|ol_4maktab _sinov|test_data
-095020|Bog'dod|9-maktab|bog_9maktab|test_data
-224270|Furqat|3-maktab|furqat_3maktab|test_data
 435860|Toshloq|43-maktab|tosh_43maktab|test_data
+215570|Furqat|21-maktab|furqat_21maktab|test_data
+224270|Furqat|3-maktab|furqat_3maktab|test_data
 274770|Furqat|24-maktab|furqat_24maktab|test_data
 976770|Furqat|33-maktab|furqat_33maktab|test_data
 797677|Furqat|10-maktab|furqat_10maktab|test_data
 897574|Furqat|36-maktab|furqat_36maktab|test_data
-497674|Beshariq|52-maktab|beshariq_52maktab|test_data
 354580|Rishton|11-maktab|rish_11maktab|test_data
 424780|Rishton|42-maktab|rish_42maktab|test_data
 234240|Rishton|23-maktab|rish_23maktab|test_data
@@ -68,3 +67,11 @@
 274472|Uchko'prik|27-maktab|uch_27maktab|test_data
 535052|Uchko'prik|53-maktab|uch_53maktab|test_data
 336040|Uchko'prik|33-maktab|uch_33maktab|test_data
+095020|Bog'dod|9-maktab|bog_9maktab|test_data
+406070|Bog'dod|40-maktab|bog_40maktab|test_data
+231025|Bog'dod|23-maktab|bog_23maktab|test_data
+577010|Bog'dod|57-maktab|bog_57maktab|test_data
+605524|Bog'dod|60-maktab|bog_60maktab|test_data
+035525|Bog'dod|3-maktab|bog_3maktab|test_data
+635020|Bog'dod|63-maktab|bog_63maktab|test_data
+565626|Bog'dod|56-maktab|bog_56maktab|test_data
