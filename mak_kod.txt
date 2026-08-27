@@ -64,7 +64,7 @@
 105042|Uchko'prik|10-maktab|uch_10maktab|test_data
 155011|Uchko'prik|15-maktab|uch_15maktab|test_data
 190072|Uchko'prik|19-maktab|uch_19maktab|test_data
-204082|Uchko'prik|20-maktab|uch_20maktab|test_data
+364082|Uchko'prik|36-maktab|uch_36maktab|test_data
 274472|Uchko'prik|27-maktab|uch_27maktab|test_data
-285052|Uchko'prik|28-maktab|uch_28maktab|test_data
+535052|Uchko'prik|53-maktab|uch_53maktab|test_data
 336040|Uchko'prik|33-maktab|uch_33maktab|test_data
