@@ -1,10 +1,7 @@
-127890|Dang'ara|1-maktab|dangara_1maktab|test_data
-497674|Beshariq|52-maktab|beshariq_52maktab|test_data
 550505|Oltiariq 15-maktab|Diagnostik testlar|diagnostik_test_15m|natija
 770707|Oltiariq|Oltiariq IM|test_natijasi|test_data
 788700|Oltiariq 3-maktab|Diagnostik testlar|diagnostik_test_3m|natija
 388700|Oltiariq 38-maktab|Diagnostik testlar|diagnostik_test_38m|natija
-252525|sinov va zahira|Diagnostik testlar|diagnostik_test|natija
 777707|Oltiariq|Oltiariq|sinov|test_data
 260606|Oltiariq|26-maktab|ol_26maktab|test_data
 607065|Oltiariq|6-maktab|ol_6maktab|test_data
@@ -16,13 +13,6 @@
 045240|Oltiariq|4-maktab|ol_4maktab|test_data
 034560|Oltiariq|3-IDUM|ol_3idum|test_data
 556412|Oltiariq|Oltiariq IM|ol_im|test_data
-554560|Oltiariq|Tayyorlov guruh|pimt_mar|test_data
-568512|Oltiariq|Tayyorlov guruh|pimt_1|test_data
-245690|Oltiariq|Tayyorlov guruh|pimt_2|test_data
-047585|Oltiariq|Tayyorlov guruh|pimt_3|test_data
-745622|Oltiariq|Tayyorlov guruh|pimt_4|test_data
-574563|Oltiariq|Tayyorlov guruh|pimt_5|test_data
-788845|Oltiariq|Tayyorlov guruh|pimt_6|test_data
 445244|Oltiariq|9-maktab|ol_9maktab|test_data
 907565|Oltiariq|6-maktab|ol_6maktab_2|test_data
 566545|Oltiariq|TG imtihon|imtihon_pimt|test_data
@@ -30,7 +20,6 @@
 789655|Oltiariq|GRAND akademiyasi|malika1|test_data
 355240|Oltiariq|35-maktab|ol_35maktab|test_data
 557890|Oltiariq|4-maktab Boshlang'ich|ol_4maktab _sinov|test_data
-435860|Toshloq|43-maktab|tosh_43maktab|test_data
 215570|Furqat|21-maktab|furqat_21maktab|test_data
 224270|Furqat|3-maktab|furqat_3maktab|test_data
 274770|Furqat|24-maktab|furqat_24maktab|test_data
@@ -75,3 +64,6 @@
 035525|Bog'dod|3-maktab|bog_3maktab|test_data
 635020|Bog'dod|63-maktab|bog_63maktab|test_data
 565626|Bog'dod|56-maktab|bog_56maktab|test_data
+435860|Toshloq|43-maktab|tosh_43maktab|test_data
+127890|Dang'ara|1-maktab|dangara_1maktab|test_data
+497674|Beshariq|52-maktab|beshariq_52maktab|test_data
