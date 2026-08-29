@@ -62,5 +62,6 @@
 635020|Bog'dod|63-maktab|bog_63maktab|test_data
 565626|Bog'dod|56-maktab|bog_56maktab|test_data
 435860|Toshloq|43-maktab|tosh_43maktab|test_data
+337866|Toshloq|33-maktab|tosh_33maktab|test_data
 127890|Dang'ara|1-maktab|dangara_1maktab|test_data
 497674|Beshariq|52-maktab|beshariq_52maktab|test_data
