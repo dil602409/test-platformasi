@@ -3,7 +3,6 @@
 788700|Oltiariq 3-maktab|Diagnostik testlar|diagnostik_test_3m|natija
 388700|Oltiariq 38-maktab|Diagnostik testlar|diagnostik_test_38m|natija
 777707|Oltiariq|Oltiariq|sinov|test_data
-260606|Oltiariq|26-maktab|ol_26maktab|test_data
 607065|Oltiariq|6-maktab|ol_6maktab|test_data
 220956|Oltiariq|2-IDUM|ol_2idum|test_data
 207790|Oltiariq|20-maktab|ol_20maktab|test_data
@@ -16,7 +15,10 @@
 445244|Oltiariq|9-maktab|ol_9maktab|test_data
 907565|Oltiariq|6-maktab|ol_6maktab_2|test_data
 355240|Oltiariq|35-maktab|ol_35maktab|test_data
-557890|Oltiariq|4-maktab Boshlang'ich|ol_4maktab _sinov|test_data
+427240|Oltiariq|42-maktab|ol_42maktab|test_data
+172290|Oltiariq|17-maktab|ol_17maktab|test_data
+181270|Oltiariq|18-maktab|ol_18maktab|test_data
+199270|Oltiariq|19-maktab|ol_19maktab|test_data
 215570|Furqat|21-maktab|furqat_21maktab|test_data
 224270|Furqat|3-maktab|furqat_3maktab|test_data
 274770|Furqat|24-maktab|furqat_24maktab|test_data
