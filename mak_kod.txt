@@ -57,6 +57,7 @@
 336040|Uchko'prik|33-maktab|uch_33maktab|test_data
 095020|Bog'dod|9-maktab|bog_9maktab|test_data
 406070|Bog'dod|40-maktab|bog_40maktab|test_data
+457075|Bog'dod|45-maktab|bog_45maktab|test_data
 231025|Bog'dod|23-maktab|bog_23maktab|test_data
 577010|Bog'dod|57-maktab|bog_57maktab|test_data
 605524|Bog'dod|60-maktab|bog_60maktab|test_data
