@@ -2,7 +2,7 @@
 770707|Oltiariq|Oltiariq IM|test_natijasi|test_data
 788700|Oltiariq 3-maktab|Diagnostik testlar|diagnostik_test_3m|natija
 388700|Oltiariq 38-maktab|Diagnostik testlar|diagnostik_test_38m|natija
-777707|Oltiariq|Oltiariq|sinov|test_data
+777707|Oltiariq|Oltiariq IM|sinov|test_data
 607065|Oltiariq|6-maktab|ol_6maktab|test_data
 220956|Oltiariq|2-IDUM|ol_2idum|test_data
 207790|Oltiariq|20-maktab|ol_20maktab|test_data
