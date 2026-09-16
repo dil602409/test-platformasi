@@ -11,7 +11,7 @@
 445570|Oltiariq|14-maktab|ol_14maktab|test_data
 045240|Oltiariq|4-maktab|ol_4maktab|test_data
 034560|Oltiariq|3-IDUM|ol_3idum|test_data
-556412|Oltiariq|Oltiariq IM|ol_im|test_data
+556622|Oltiariq|Oltiariq IM|ol_im|test_data
 445244|Oltiariq|9-maktab|ol_9maktab|test_data
 907565|Oltiariq|6-maktab|ol_6maktab_2|test_data
 355240|Oltiariq|35-maktab|ol_35maktab|test_data
