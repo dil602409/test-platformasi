@@ -4,4 +4,4 @@
 8|Ona tili|Matematika|Ingliz tili|Tarix|Biologiya|Kimyo|Fizika|Rus tili|Geografiya
 9|Ona tili|Matematika|Ingliz tili|Tarix|Biologiya|Kimyo|Fizika|Rus tili|Geografiya
 10|Ona tili|Matematika|Ingliz tili|Tarix|Biologiya|Kimyo|Fizika|Rus tili|Geografiya
-11|Ona tili|Matematika|Ingliz tili|Tarix|Biologiya|Kimyo|Fizika|Rus tili|Geografiya
+11|Ona tili|Matematika|Ingliz tili|Tarix|Biologiya|Kimyo|Fizika|Rus tili
