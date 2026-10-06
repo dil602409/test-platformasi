@@ -1,5 +1,5 @@
-﻿5-sinf|https://3dt5.netlify.app/|Sinfi:5-sinf|Chorak:1-chorak|Test turi:diagnostik test|Testlar soni:7 ta fan 20 tadan|
-6-sinf|https://3dt6.netlify.app/|Sinfi:6-sinf|Chorak:1-chorak|Test turi:diagnostik test|Testlar soni:7 ta fan 20 tadan|
-7-sinf|https://3dt7.netlify.app/|Sinfi:7-sinf|Chorak:1-chorak|Test turi:diagnostik test|Testlar soni:10 ta fan 20 tadan|
-8-sinf|https://3dt8.netlify.app/|Sinfi:8-sinf|Chorak:1-chorak|Test turi:diagnostik test|Testlar soni:10 ta fan 20 tadan|
-9-sinf|https://3dt9.netlify.app/|Sinfi:9-sinf|Chorak:1-chorak|Test turi:diagnostik test|Testlar soni:10 ta fan 20 tadan|
+﻿5-sinf|https://1to5-2738.netlify.app/|Sinfi:5-sinf|Chorak:1-chorak|Test turi:diagnostik test|Testlar soni:7 ta fan 20 tadan|
+6-sinf|https://1to6-2738.netlify.app/|Sinfi:6-sinf|Chorak:1-chorak|Test turi:diagnostik test|Testlar soni:7 ta fan 20 tadan|
+7-sinf|https://1to7-2738.netlify.app/|Sinfi:7-sinf|Chorak:1-chorak|Test turi:diagnostik test|Testlar soni:10 ta fan 20 tadan|
+8-sinf|https://1to8-2738.netlify.app/|Sinfi:8-sinf|Chorak:1-chorak|Test turi:diagnostik test|Testlar soni:10 ta fan 20 tadan|
+9-sinf|https://1to9-2738.netlify.app/|Sinfi:9-sinf|Chorak:1-chorak|Test turi:diagnostik test|Testlar soni:10 ta fan 20 tadan|
