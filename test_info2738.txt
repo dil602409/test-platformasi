@@ -3,5 +3,3 @@
 7-sinf|https://3dt7.netlify.app/|Sinfi:7-sinf|Chorak:1-chorak|Test turi:diagnostik test|Testlar soni:10 ta fan 20 tadan|
 8-sinf|https://3dt8.netlify.app/|Sinfi:8-sinf|Chorak:1-chorak|Test turi:diagnostik test|Testlar soni:10 ta fan 20 tadan|
 9-sinf|https://3dt9.netlify.app/|Sinfi:9-sinf|Chorak:1-chorak|Test turi:diagnostik test|Testlar soni:10 ta fan 20 tadan|
-10-sinf|https://3dt9.netlify.app/|Sinfi:10-sinf|Chorak:1-chorak|Test turi:diagnostik test|Testlar soni:9 ta fan 20 tadan|
-11-sinf|https://3dt9.netlify.app/|Sinfi:11-sinf|Chorak:1-chorak|Test turi:diagnostik test|Testlar soni:8 ta fan 20 tadan|
