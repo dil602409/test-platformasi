@@ -68,4 +68,5 @@
 435860|Toshloq|43-maktab|tosh_43maktab|test_data
 337866|Toshloq|33-maktab|tosh_33maktab|test_data
 127890|Dang'ara|1-maktab|dangara_1maktab|test_data
+127890|Dang'ara|2-maktab|dangara_2maktab|test_data
 497674|Beshariq|52-maktab|beshariq_52maktab|test_data
