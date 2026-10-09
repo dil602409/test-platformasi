@@ -20,6 +20,7 @@
 172290|Oltiariq|17-maktab|ol_17maktab|test_data
 181270|Oltiariq|18-maktab|ol_18maktab|test_data
 199270|Oltiariq|19-maktab|ol_19maktab|test_data
+299770|Oltiariq|29-maktab|ol_29maktab|test_data
 215570|Furqat|21-maktab|furqat_21maktab|test_data
 224270|Furqat|3-maktab|furqat_3maktab|test_data
 274770|Furqat|24-maktab|furqat_24maktab|test_data
