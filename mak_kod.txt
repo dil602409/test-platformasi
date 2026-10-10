@@ -1,4 +1,4 @@
-550505|korzina|Diagnostik testlar|diagnostik_test_15m|natija
+550505|Oltiariq|x-maktab|diagnostik_test_15m|natija
 770707|Oltiariq|Oltiariq IM|test_natijasi|test_data
 788700|Oltiariq 3-maktab|Diagnostik testlar|diagnostik_test_3m|natija
 388700|Oltiariq 38-maktab|Diagnostik testlar|diagnostik_test_38m|natija
