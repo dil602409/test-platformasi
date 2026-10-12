@@ -19,7 +19,6 @@
 355240|Oltiariq|35-maktab|ol_35maktab|test_data
 427240|Oltiariq|42-maktab|ol_42maktab|test_data
 172290|Oltiariq|17-maktab|ol_17maktab|test_data
-168280|Oltiariq|16-maktab|ol_16maktab|test_data
 181270|Oltiariq|18-maktab|ol_18maktab|test_data
 199270|Oltiariq|19-maktab|ol_19maktab|test_data
 299770|Oltiariq|29-maktab|ol_29maktab|test_data
@@ -65,6 +64,7 @@
 231025|Bog'dod|23-maktab|bog_23maktab|test_data
 577010|Bog'dod|57-maktab|bog_57maktab|test_data
 605524|Bog'dod|60-maktab|bog_60maktab|test_data
+168280|Bog'dod|16-maktab|bog_16maktab|test_data
 035525|Bog'dod|3-maktab|bog_3maktab|test_data
 635020|Bog'dod|63-maktab|bog_63maktab|test_data
 565626|Bog'dod|56-maktab|bog_56maktab|test_data
