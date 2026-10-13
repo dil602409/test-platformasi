@@ -18,6 +18,8 @@
 907565|Oltiariq|6-maktab|ol_6maktab_2|test_data
 355240|Oltiariq|35-maktab|ol_35maktab|test_data
 427240|Oltiariq|42-maktab|ol_42maktab|test_data
+388024|Oltiariq|38-maktab|ol_38maktab|test_data
+034050|Oltiariq|3-maktab|ol_3maktab|test_data
 172290|Oltiariq|17-maktab|ol_17maktab|test_data
 181270|Oltiariq|18-maktab|ol_18maktab|test_data
 199270|Oltiariq|19-maktab|ol_19maktab|test_data
