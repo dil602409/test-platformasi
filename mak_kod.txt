@@ -19,6 +19,7 @@
 388024|Oltiariq|38-maktab|ol_38maktab|test_data
 034050|Oltiariq|3-maktab|ol_3maktab|test_data
 172290|Oltiariq|17-maktab|ol_17maktab|test_data
+407710|Oltiariq|40-maktab|ol_40maktab|test_data
 181270|Oltiariq|18-maktab|ol_18maktab|test_data
 199270|Oltiariq|19-maktab|ol_19maktab|test_data
 299770|Oltiariq|29-maktab|ol_29maktab|test_data
