@@ -58,6 +58,7 @@
 190072|Uchko'prik|19-maktab|uch_19maktab|test_data
 364082|Uchko'prik|36-maktab|uch_36maktab|test_data
 274472|Uchko'prik|27-maktab|uch_27maktab|test_data
+224552|Uchko'prik|22-maktab|uch_22maktab|test_data
 535052|Uchko'prik|53-maktab|uch_53maktab|test_data
 336040|Uchko'prik|33-maktab|uch_33maktab|test_data
 095020|Bog'dod|9-maktab|bog_9maktab|test_data
