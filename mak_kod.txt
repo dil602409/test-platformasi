@@ -13,7 +13,7 @@
 044680|Oltiariq|4-IDUM|ol_4idum|test_data
 556622|Oltiariq|Oltiariq IM|ol_im|test_data
 445244|Oltiariq|9-maktab|ol_9maktab|test_data
-355240|Oltiariq|35-maktab|ol_35maktab|test_data
+365266|Oltiariq|36-maktab|ol_36maktab|test_data
 427240|Oltiariq|42-maktab|ol_42maktab|test_data
 388024|Oltiariq|38-maktab|ol_38maktab|test_data
 034050|Oltiariq|3-maktab|ol_3maktab|test_data
