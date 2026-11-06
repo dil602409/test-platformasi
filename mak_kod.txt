@@ -78,3 +78,4 @@
 497674|Beshariq|52-maktab|beshariq_52maktab|test_data
 197774|Beshariq|19-maktab|beshariq_19maktab|test_data
 408880|Quva|40-maktab|quva_40maktab|test_data
+774585|Farg'ona shahar|7-maktab|far_shah_7maktab|test_data
